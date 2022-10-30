@@ -3,8 +3,6 @@
 # About Me [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J84188U)
 I am a cellular sales accosiate with a passion for computer science with heavy leanings towards cyber security and artificial intelligence, I went to college for a year for computer programming, dropped the course being unable to learn the traditional way, I moved to online schooling for my Bachelors degree in Computer Science with a minor in webdevelopment.
 
-as of right now I dont do school and am focusing on work because of the trying times that is 2020's covid-19 Outbreak, my repository is filled with random projects I like to work on from time to time, including proof of concept applications to test my knowledge of a certain language.
-
 ## My links
 * My Brand
   * [Instagram](http://instagram.com/TheCrusadeCo)
